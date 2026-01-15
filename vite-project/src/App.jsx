@@ -2,17 +2,14 @@
 import Chai from "./chai"
 
 function App() {
-  
+  const username = "chai and code"
 
   return (
     <>
      <Chai/>
      <h1>
-      chai s sur dipu
+      chai dipu {username}
      </h1>
-     <p>
-      test para
-     </p>
     </>
   
   )
