@@ -1,9 +1,20 @@
 
+import Chai from "./chai"
+
 function App() {
   
 
   return (
-    <h1>chai aur react with vite | dipu kumar rajak</h1>
+    <>
+     <Chai/>
+     <h1>
+      chai s sur dipu
+     </h1>
+     <p>
+      test para
+     </p>
+    </>
+  
   )
 }
 
